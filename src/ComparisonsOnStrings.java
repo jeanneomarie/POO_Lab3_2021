@@ -11,7 +11,7 @@ public class ComparisonsOnStrings {
         name2 += "O"; // POO
 
         String name3 = "POO";
-        String name4 = new String("POO"); // de ce e la fel in memorie??
+        String name4 = new String("POO"); // see with the debugger the memory issue
 
         if (name1.equals(name2)) {
             System.out.println("1-2 equal"); // THIS
