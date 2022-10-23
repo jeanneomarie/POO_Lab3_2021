@@ -41,8 +41,8 @@ public class Problem3 {
     }
 
     public static void main(String[] args) {
-        countConsonantsAndVowels("Numele meu este Ioana!");
-        findVowelIndexes("Numele meu este Ioana!", 'a');
+        countConsonantsAndVowels("My name is Ioana!");
+        findVowelIndexes("My name is Ioana!", 'a');
     }
 }
 
